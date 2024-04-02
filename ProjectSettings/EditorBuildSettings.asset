@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Atrium.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Building N floor 1.unity
+    guid: 7a502e81ebb17cf4eb4e43b042e16367
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Building R floor 1.unity
+    guid: 8fd5d4d873a8ffd4598b8bab750bcedf
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Building R floor 2.unity
+    guid: 4c4f41d3b8aa14d4a869f3bcb6daa58a
+  - enabled: 1
+    path: Assets/Presentation/Scenes/CabinetWithProrector.unity
+    guid: 674a1722c7908cd45a476083e0800fee
+  - enabled: 1
+    path: Assets/Presentation/Scenes/CabinetWithCurator.unity
+    guid: 8a32ab0afedf91a4280192b763f5c87a
+  - enabled: 1
+    path: Assets/Presentation/Scenes/BelieveQuiz.unity
+    guid: 7f5cf4f843d47f64794e09ecc14c961d
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Canteen.unity
+    guid: d34eac7cebd6a8d4b91ab873882b00c4
+  - enabled: 1
+    path: Assets/Presentation/Scenes/CanteenPlatformer.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Building N floor 2.unity
+    guid: 614c4611b41bc824296fa62d7737f2f2
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Library.unity
+    guid: 9b6d70d774bada34b8e4d47ac9f758ef
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Building F.unity
+    guid: 2e6b3c28c32bda54f97ed486061b3064
+  - enabled: 1
+    path: Assets/Presentation/Scenes/Final test.unity
+    guid: 4a3c52300aff91249ae3ad223fb17635
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 7f3fc46c86aad1f44b3f50ba28618d9f, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 56c79a29488d0b14d8f2be0300ddd5d0, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 434641e037d00f44c8f6271e07e4d823, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5b822b4ebb8148c4f94d749b732044c0, type: 2}
